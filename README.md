@@ -1,6 +1,9 @@
 # MyOrganizationsPlus
 Legacy Seneca MyOrganizationsPlus building block
-vendor sen handle organizationsplus version 2.0.2
+
+vendor sen 
+handle organizationsplus 
+version 2.0.2
 
 Should work with OpenJDK11
 
